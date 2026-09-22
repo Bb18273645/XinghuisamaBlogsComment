@@ -1,12 +1,4 @@
 {
   "version": 1,
-  "comments": [
-    {
-      "id": "447cb32f-9f56-4875-8887-3e4c7bd11d4b",
-      "page": "system:comment-test",
-      "author": "Codex 验证",
-      "content": "评论系统端到端测试",
-      "createdAt": "2026-09-22T12:14:55.503Z"
-    }
-  ]
+  "comments": []
 }
