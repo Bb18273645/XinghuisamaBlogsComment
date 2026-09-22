@@ -1,4 +1,12 @@
 {
   "version": 1,
-  "comments": []
+  "comments": [
+    {
+      "id": "758f00da-7757-4ff7-9826-f1535dd08c1d",
+      "page": "system:production-test",
+      "author": "Codex 验证",
+      "content": "Vercel 评论系统端到端测试",
+      "createdAt": "2026-09-22T12:28:16.053Z"
+    }
+  ]
 }
