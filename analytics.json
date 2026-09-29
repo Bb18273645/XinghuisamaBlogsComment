@@ -1,9 +1,9 @@
 {
   "version": 1,
   "totals": {
-    "views": 62,
+    "views": 63,
     "firstVisitAt": "2026-09-23T11:45:00.586Z",
-    "lastVisitAt": "2026-09-29T15:41:26.926Z"
+    "lastVisitAt": "2026-09-29T15:41:29.493Z"
   },
   "visitors": {
     "8337088ef3bb4e8d11819fcd778e50be99267c8a1b2bd90b8dbc9127812549af": {
@@ -212,7 +212,7 @@
     },
     "0ab4eae3b0730a99f882e8d8bb6d8f7254e8a70e7d11200a116ccc622c8cbac7": {
       "firstSeenAt": "2026-09-29T15:41:23.120Z",
-      "lastSeenAt": "2026-09-29T15:41:26.926Z"
+      "lastSeenAt": "2026-09-29T15:41:29.493Z"
     }
   },
   "daily": {
@@ -286,7 +286,7 @@
       }
     },
     "2026-09-29": {
-      "views": 22,
+      "views": 23,
       "visitors": {
         "4c957046cd7668198e783c84107238e032a42d317db7a5907c61d66ac457412a": true,
         "8f075cfa1451045dcb752f7b242dc5b2d9608ec1fe981413df09754cde0eb71d": true,
