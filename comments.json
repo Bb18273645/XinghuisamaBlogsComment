@@ -1,4 +1,12 @@
 {
   "version": 1,
-  "comments": []
+  "comments": [
+    {
+      "id": "ec9d4f6b-2ecb-419d-a8b0-b9066fc41276",
+      "page": "friends",
+      "author": "测试",
+      "content": "测试",
+      "createdAt": "2026-09-29T01:00:35.260Z"
+    }
+  ]
 }
