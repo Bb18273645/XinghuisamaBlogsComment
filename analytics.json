@@ -1,9 +1,9 @@
 {
   "version": 1,
   "totals": {
-    "views": 148,
+    "views": 149,
     "firstVisitAt": "2026-09-23T11:45:00.586Z",
-    "lastVisitAt": "2026-10-22T15:18:14.801Z"
+    "lastVisitAt": "2026-10-23T02:47:02.642Z"
   },
   "visitors": {
     "8337088ef3bb4e8d11819fcd778e50be99267c8a1b2bd90b8dbc9127812549af": {
@@ -461,6 +461,10 @@
     "32097f88eef036ebc54be9ff5a7fde59597f7e592c0a7e1be0fa405a50000c06": {
       "firstSeenAt": "2026-10-22T15:18:14.801Z",
       "lastSeenAt": "2026-10-22T15:18:14.801Z"
+    },
+    "88add7fa8baae2f4527c4b16f4f92a309516e35d0f69ae0308d05a7f4cc8b292": {
+      "firstSeenAt": "2026-10-23T02:47:02.642Z",
+      "lastSeenAt": "2026-10-23T02:47:02.642Z"
     }
   },
   "daily": {
@@ -720,6 +724,12 @@
         "2fcd14e5e0a370b25441189202ce7314a4b8171fdd8c5f1ed2f75d28292e80f0": true,
         "1d81d3eb657db6dc9e0ddacc1825cac7819be6848071130651acb094139f2327": true,
         "32097f88eef036ebc54be9ff5a7fde59597f7e592c0a7e1be0fa405a50000c06": true
+      }
+    },
+    "2026-10-23": {
+      "views": 1,
+      "visitors": {
+        "88add7fa8baae2f4527c4b16f4f92a309516e35d0f69ae0308d05a7f4cc8b292": true
       }
     }
   }
