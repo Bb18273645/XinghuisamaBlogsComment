@@ -1,9 +1,9 @@
 {
   "version": 1,
   "totals": {
-    "views": 279,
+    "views": 280,
     "firstVisitAt": "2026-09-23T11:45:00.586Z",
-    "lastVisitAt": "2026-10-28T11:03:49.557Z"
+    "lastVisitAt": "2026-10-28T12:13:07.537Z"
   },
   "visitors": {
     "8337088ef3bb4e8d11819fcd778e50be99267c8a1b2bd90b8dbc9127812549af": {
@@ -813,6 +813,10 @@
     "6c2d684dc1190aee118ab20396e4680b91338170c19ebb00b644b32fc572b0f0": {
       "firstSeenAt": "2026-10-28T09:08:38.017Z",
       "lastSeenAt": "2026-10-28T09:09:05.661Z"
+    },
+    "0f01d007bf7614e2f51f5bba5fe545a516f790c4300eb644219de0541c775d19": {
+      "firstSeenAt": "2026-10-28T12:13:07.537Z",
+      "lastSeenAt": "2026-10-28T12:13:07.537Z"
     }
   },
   "daily": {
@@ -1183,7 +1187,7 @@
       }
     },
     "2026-10-28": {
-      "views": 14,
+      "views": 15,
       "visitors": {
         "b4732ba8065afbca8db07169c7da51db87b3e406fdf86f577a667d4f373a31e0": true,
         "b537f62eec9574651d9cae8f7a6f15dca2734f063c2c1e3a64f1e8c04dd436dc": true,
@@ -1194,7 +1198,8 @@
         "b28bf24ee6de399ae88851e3dcdbed6feb2551d719e8c361a5fc0cee3e3c270f": true,
         "d63af3f485407af132a4653ad4fb9c38e5d738eb61b69932cdcd10feceaf5b35": true,
         "f290a97f0f5b882bfb141b10e5d0bec25f127569ba97de7b24636008e7b23570": true,
-        "6c2d684dc1190aee118ab20396e4680b91338170c19ebb00b644b32fc572b0f0": true
+        "6c2d684dc1190aee118ab20396e4680b91338170c19ebb00b644b32fc572b0f0": true,
+        "0f01d007bf7614e2f51f5bba5fe545a516f790c4300eb644219de0541c775d19": true
       }
     }
   }
